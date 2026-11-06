@@ -1,0 +1,1 @@
+This tool can recognize and persistently save coordinates in either F3+C or standard formats. It also automatically calculates the corresponding coordinates between the Overworld and the Nether.You can also add notes after the input coordinates.Although it was built with AI, I have used it for a long time without encountering any bugs, and it never loses data.
